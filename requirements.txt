@@ -1,0 +1,25 @@
+# --- LLM & Orchestration ---
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+langchain-google-genai
+openai
+groq
+google-generativeai
+
+# --- Vector Database & Embeddings ---
+chromadb
+sentence-transformers
+langchain-huggingface
+
+# --- Document Processing ---
+pypdf
+unstructured
+python-magic
+tiktoken
+
+# --- Web Interface & Environment ---
+streamlit
+python-dotenv
